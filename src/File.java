@@ -7,7 +7,6 @@ public class File {
         this.content = content;
     }
 
-
     public String getName() {
         return name;
     }
